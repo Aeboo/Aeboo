@@ -2,7 +2,6 @@
 - 👀 I’m interested in C#,Python,SQLServer,etc.
 - 🌱 I’m currently learning WPF
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Aeboo/Aeboo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
